@@ -1,0 +1,4 @@
+scv
+===
+
+kakuro solver
