@@ -119,6 +119,9 @@ public class Kakuro {
 					celleBianche.add( (Bianca) matrice[j][i]);
 				}
 		
+	
+		//System.out.println(matrice [6][4].getVincoloOriz().get_num_celle());
+		
 		
 		Collections.sort(celleBianche, new MyComparator());
 		
